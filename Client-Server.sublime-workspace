@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create_",
+				"create_buffer_from_query_result"
+			],
+			[
+				"lis",
+				"listen_to_connection"
+			],
+			[
+				"conn",
+				"connect_to_db"
+			],
+			[
+				"con",
+				"connect_to_the_server"
+			],
+			[
+				"serv",
+				"server_address"
+			],
+			[
+				"ser",
+				"server_address"
+			],
+			[
+				"co",
+				"connection_status"
+			],
+			[
+				"onkey",
+				"onkeyup"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"_PO",
+				"$_POST"
+			],
+			[
+				"che",
+				"check_age"
+			],
+			[
+				"AI",
+				"AI_AGE"
+			],
+			[
+				"binary",
+				"binarysearch2"
+			],
+			[
+				"ale",
+				"alert_msg"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"ms",
+				"msg_class"
+			],
+			[
+				"db",
+				"dbname"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect()"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"_SE",
+				"$_SERVER"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/Test/templates/main/contact.html.twig",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Client-Server.sublime-project",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAADfAAAAewoJImZvbGRlcnMiOgoJWwoJCXsKCQkJInBhdGgiOiAiLiIsCgkJCSJuYW1lIjogIkNsaWVudFNlcnZlciIsCgkJCSJmaWxlX2V4Y2x1ZGVfcGF0dGVybnMiOiBbIiouc3VibGltZS1wcm9qZWN0Il0sCgkJCSJmb2xkZXJfZXhjbHVkZV9wYXR0ZXJucyI6IFsiYmluIiwgIm9iaiJdLAoJCX0sCgkJewoJCQkicGF0aCI6ICIvdmFyL3d3dy9odG1sL1Rlc3QvdGVtcGxhdGVzIgoJCX0sCgldLAp9CgAAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/kirill/workshop/c/client-server_app/server_tcp.c",
+		"/home/kirill/workshop/c/client-server_app/client_tcp.c",
+		"/home/kirill/workshop/c/client-server_app/test.c",
+		"/home/kirill/workshop/c/client-server_app/Client-Server.sublime-project",
+		"/home/kirill/workshop/c/Client-Server.sublime-project",
+		"/home/kirill/workshop/c/data",
+		"/var/www/html/Test/templates/base.html.twig",
+		"/var/www/html/Test/templates/inc/footer.php",
+		"/var/www/html/Test/templates/main/index.html.twig",
+		"/var/www/html/Test/templates/inc/navbar.html.twig",
+		"/var/www/html/Test/templates/css/main.css",
+		"/var/www/html/Test/templates/inc/header.php",
+		"/var/www/html/page1.php",
+		"/var/www/html/page2.php",
+		"/var/www/html/test.php",
+		"/var/www/html/info.php",
+		"/home/kirill/workshop/university/siaod/lab8.cpp",
+		"/home/kirill/workshop/university/siaod/lab7.c",
+		"/var/www/html/articles.php",
+		"/var/www/html/index.php",
+		"/var/www/html/css/main.css",
+		"/var/www/html/whoami.php",
+		"/var/www/html/header.php",
+		"/var/www/html/link.html",
+		"/var/www/html/body.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"BSearch_Age",
+			"BSearch_Name",
+			"FillingArray",
+			"SelectSort_Name",
+			"SelectSort_Age",
+			"LessAge",
+			"LessName",
+			"PhoneDirectory",
+			"whoami"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"binarysearch_age",
+			"binarysearch_name",
+			"create_asc",
+			"sort_name",
+			"sort_age",
+			"check_age",
+			"check_name",
+			"phone_struct"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/Test/templates/main/contact.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Client-Server.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Client-Server.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
